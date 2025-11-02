@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 import QuantLib as ql
 from arch import arch_model
-import matplotlib.pyplot as plt
 
 
 __all__ = [
